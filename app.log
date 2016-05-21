@@ -1,0 +1,5 @@
+INFO:root:Программа запущена с параметрами Namespace(file=None, file_log='app.log', file_out='rezult.txt', level_log='INFO', symbol='AAPL', year=2016)в режиме сеть
+INFO:root:Программа запущена с параметрами Namespace(file=None, file_log='app.log', file_out='rezult.txt', level_log='INFO', symbol='AAPL', year=2015)в режиме сеть
+INFO:root:Программа запущена с параметрами Namespace(file='KO.csv', file_log='app.log', file_out='rezult.txt', level_log='INFO', symbol=None, year=2016)в режиме файл
+INFO:root:Программа запущена с параметрами Namespace(file=None, file_log='app.log', file_out='rezult.txt', level_log='INFO', symbol='AAPL', year=2015)в режиме сеть
+INFO:root:Программа запущена с параметрами Namespace(file=None, file_log='app.log', file_out='out.txt', level_log='INFO', symbol='AAPL', year=2015)в режиме сеть
